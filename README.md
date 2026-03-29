@@ -77,7 +77,6 @@ We focus on identifying inconsistencies, missing data, and integration challenge
 * Python
 * Pandas
 * NumPy
-* Google Colab
 
 ---
 
