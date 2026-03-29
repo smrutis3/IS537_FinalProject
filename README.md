@@ -82,17 +82,11 @@ We focus on identifying inconsistencies, missing data, and integration challenge
 
 ## 📁 Repository Structure
 
-* `IS537.ipynb` → Main analysis notebook
+* `IS537_FirstDraftCleaning.ipynb` → First Draft of cleaning datasets
 * `aqs_sites.csv` → Site metadata dataset
 * `annual_conc_by_monitor_2025.csv` → Pollution dataset
-
----
-
-## 🚀 Future Work
-
-* Perform detailed impact analysis (before vs after cleaning)
-* Analyze geographic coverage (urban vs rural)
-* Improve data cleaning strategies and validation
+* `IS537_Progress_UpdatedCode.ipynb` → Organised cleaning and analysis of the datasets
+* `IS537_Progress_Report.pdf` → Current Progress Report of the Project
 
 ---
 
